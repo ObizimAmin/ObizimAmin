@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ObizimAmin
+- 👀 I’m interested in Next And Qwik
+- 🌱 I’m currently learning Nest
+- 💞️ I’m looking to collaborate on Obizim Co.
+- 📫 How to reach me: obizimamin@gmail.com
